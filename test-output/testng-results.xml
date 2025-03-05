@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="13849" started-at="2025-03-05T11:52:51Z" finished-at="2025-03-05T11:53:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="13849" started-at="2025-03-05T11:52:51Z" finished-at="2025-03-05T11:53:04Z">
+      <class name="com.mystore.testcases.TC_MyAccountPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@4de5031f]" name="setup" is-config="true" duration-ms="10279" started-at="2025-03-05T11:52:51Z" finished-at="2025-03-05T11:53:01Z">
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@4de5031f]" name="verifyLogin" duration-ms="2878" started-at="2025-03-05T11:53:01Z" finished-at="2025-03-05T11:53:04Z">
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mystore.testcases.TC_MyAccountPageTest@4de5031f]" name="tearDown" is-config="true" duration-ms="203" started-at="2025-03-05T11:53:04Z" finished-at="2025-03-05T11:53:04Z">
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.testcases.TC_MyAccountPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
